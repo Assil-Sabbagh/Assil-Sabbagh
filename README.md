@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**Assil-Sabbagh/Assil-Sabbagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Assil Sabbagh
 
-Here are some ideas to get you started:
+Computer Engineering student at Beirut Arab University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Embedded Systems
+- Computer Vision
+- Full Stack Web Development
+
+## Current Work
+- Smart Glasses for the Visually Impaired (YOLO + Raspberry Pi + GPS)
+- Currently developing web application and website projects
+
+## Skills
+Python, C, C++, Java, Raspberry Pi, PIC, ESP32, Arduino, MATLAB
+
+## Contact
+LinkedIn: https://linkedin.com/in/assil-sabbagh
