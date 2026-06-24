@@ -59,6 +59,6 @@ Python console application for managing student records, including adding, updat
 
 ## Contact
 
-* LinkedIn: linkedin.com/in/assil-sabbagh
-* GitHub: github.com/Assil-Sabbagh
+* LinkedIn:[ linkedin.com/in/assil-sabbagh](url)
+* GitHub: [github.com/Assil-Sabbagh](url)
 * Email: assilsabbagh@gmail.com
