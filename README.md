@@ -44,7 +44,7 @@ Python-based TCP chat application that demonstrates socket programming through a
 
 ## Mini Projects
 
-[### Student Management System](https://github.com/Assil-Sabbagh/student-management-system)
+### [Student Management System](https://github.com/Assil-Sabbagh/student-management-system)
 
 Python console application for managing student records, including adding, updating, deleting, searching, sorting, and automatically saving student data to a text file.
 
