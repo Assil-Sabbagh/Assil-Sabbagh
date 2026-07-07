@@ -8,7 +8,6 @@ Computer Engineering student at Beirut Arab University interested in full-stack 
 * Interested in full-stack development and artificial intelligence
 * Currently taking an online Full-Stack Development course on Udemy
 * Building academic and personal projects using Python, web technologies, AI basics, and embedded systems
-* Open to internship opportunities in software development, AI/data, and full-stack development
 
 ## Featured Projects
 
